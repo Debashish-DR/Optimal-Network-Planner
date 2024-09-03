@@ -175,7 +175,7 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/Debash
 
 MIT License
 
-Copyright (c) 2024 DEBASHISH ROUT
+Copyright (c) 2024 Debashish Rout
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
